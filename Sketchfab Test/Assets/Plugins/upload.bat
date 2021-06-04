@@ -1,1 +1,1 @@
-curl -v -b cookie -X PUT -F "space_template[zip]=@/Users/marcoangeles/Desktop/Unity VR/World Building/Altspace World/Sketchfab Test/template.zip" -F "space_template[game_engine_version]=20194" https://account.altvr.com/api/space_templates/1723392975414755390.json
+curl -v -b cookie -X PUT -F "space_template[zip]=@/Users/marcoangeles/Documents/GitHub/world-building/Sketchfab Test/template.zip" -F "space_template[game_engine_version]=20194" https://account.altvr.com/api/space_templates/1752059830421422403.json

@@ -29,11 +29,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
-    - Class: 65
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
+      Script: {instanceID: 0}
+    - Class: 135
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -43,5 +43,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Altspace/Export/template.unity
-  playerPath: /Users/marcoangeles/Desktop/Unity VR/World Building/Altspace World/Sketchfab
-    Test/AltspaceTemp/AssetBundles/template.unity2018_1
+  playerPath: /Users/marcoangeles/Documents/GitHub/world-building/Sketchfab Test/AltspaceTemp/AssetBundles/template.unity2018_1
